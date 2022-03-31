@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aspitalerishop/static/css/main.52ce4c70.chunk.css",
+    "main.js": "/aspitalerishop/static/js/main.4e67d6d5.chunk.js",
+    "main.js.map": "/aspitalerishop/static/js/main.4e67d6d5.chunk.js.map",
+    "runtime-main.js": "/aspitalerishop/static/js/runtime-main.bcaf04b2.js",
+    "runtime-main.js.map": "/aspitalerishop/static/js/runtime-main.bcaf04b2.js.map",
+    "static/css/2.383c0125.chunk.css": "/aspitalerishop/static/css/2.383c0125.chunk.css",
+    "static/js/2.06d2d022.chunk.js": "/aspitalerishop/static/js/2.06d2d022.chunk.js",
+    "static/js/2.06d2d022.chunk.js.map": "/aspitalerishop/static/js/2.06d2d022.chunk.js.map",
+    "static/js/3.a8ba8101.chunk.js": "/aspitalerishop/static/js/3.a8ba8101.chunk.js",
+    "static/js/3.a8ba8101.chunk.js.map": "/aspitalerishop/static/js/3.a8ba8101.chunk.js.map",
+    "index.html": "/aspitalerishop/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/aspitalerishop/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.52ce4c70.chunk.css.map": "/aspitalerishop/static/css/main.52ce4c70.chunk.css.map",
+    "static/js/2.06d2d022.chunk.js.LICENSE.txt": "/aspitalerishop/static/js/2.06d2d022.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcaf04b2.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.06d2d022.chunk.js",
+    "static/css/main.52ce4c70.chunk.css",
+    "static/js/main.4e67d6d5.chunk.js"
+  ]
+}
